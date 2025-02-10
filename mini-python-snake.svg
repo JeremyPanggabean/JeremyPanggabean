@@ -1,0 +1,20 @@
+<svg viewBox="0 0 200 200" width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Snake Body -->
+  <path d="M20,100 Q60,60 100,100 T180,100"
+        fill="none" stroke="#2d572c" stroke-width="8" stroke-linecap="round">
+    <animate
+      attributeName="d"
+      dur="2s"
+      repeatCount="indefinite"
+      values="
+        M20,100 Q60,60 100,100 T180,100;
+        M20,100 Q60,140 100,100 T180,100;
+        M20,100 Q60,60 100,100 T180,100;" />
+  </path>
+
+  <!-- Snake Head -->
+  <circle cx="20" cy="100" r="8" fill="#2d572c" />
+  <!-- Snake Eyes -->
+  <circle cx="18" cy="98" r="1.5" fill="black" />
+  <circle cx="22" cy="98" r="1.5" fill="black" />
+</svg>
