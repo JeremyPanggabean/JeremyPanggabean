@@ -17,14 +17,14 @@
 
 ### 📬 Connect with Me
 
-<p align="left">
-  <a href="mailto:jeremykevinpanggabean@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<div align="center" style="margin: 20px 0">
+  <a href="mailto:jeremykevinpanggabean@gmail.com" style="text-decoration: none; margin: 0 10px">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/jeremykevinpanggabean/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/jeremykevinpanggabean/" style="text-decoration: none; margin: 0 10px">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
-</p>
+</div>
 
 ### 🛠️ Languages and Tools
 
@@ -33,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R programming" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="R Studio" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Colab" width="40" height="40"/>
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="45" height="45" style="margin: 10px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
 </p>
 
