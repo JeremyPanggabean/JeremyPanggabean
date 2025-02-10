@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy Panggabean</h1>
-<h3 align="center">Currently studying about data science and machine learning 🇮🇩</h3>
+<h3 align="center">Currently studying about machine learning 🇮🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeremypanggabean&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -7,15 +7,19 @@
 
 ### 🚀 About Me
 
-- 🌱 I'm currently learning and growing in software development
+- 🌱 I'm currently learning and growing in machine learning engineering
 - 👯 I'm looking to collaborate on innovative projects
-- 💬 Ask me about anything tech-related
-- 📫 How to reach me: [Your Email or LinkedIn]
+- 📫 How to reach me: [jeremykevinpanggabean@gmail.com or https://www.linkedin.com/in/jeremykevinpanggabean/]
 
 ### 🛠️ Languages and Tools
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R programming" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="R Studio" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Colab" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
 </p>
 
 ### 📊 GitHub Stats
