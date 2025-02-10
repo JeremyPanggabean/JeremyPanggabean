@@ -7,6 +7,8 @@
 
 ### 🚀 About Me
 
+![Snake Animation](https://github.com/JeremyPanggabean/JeremyPanggabean/blob/output/github-contribution-grid-snake.svg)
+
 - 🌱 I'm currently learning and growing in machine learning engineering
 - 👯 I'm looking to collaborate on innovative projects
 
@@ -28,7 +30,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R programming" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="R Studio" width="40" height="40"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+ <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
 </p>
 
@@ -57,8 +59,6 @@
 </p>
 
 ---
-
-![Snake Animation](https://github.com/JeremyPanggabean/JeremyPanggabean/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <a href="[https://www.linkedin.com/in/jeremykevinpanggabean/]">
