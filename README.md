@@ -15,14 +15,13 @@
   <img src="ml-animation.svg" alt="Machine Learning Animation" style="background-color: #0d1117;" />
 </div>
 
-### 📬 Connect with Me
-
-<div align="center" style="margin: 20px 0">
-  <a href="mailto:jeremykevinpanggabean@gmail.com" style="text-decoration: none; margin: 0 10px">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
+<div align="center" style="margin: 30px 0;">
+  <h2 style="color: #6C63FF;">📫 Connect with Me</h2>
+  <a href="mailto:jeremykevinpanggabean@gmail.com" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/jeremykevinpanggabean/" style="text-decoration: none; margin: 0 10px">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/jeremykevinpanggabean/" style="text-decoration: none; margin: 0 15px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
 </div>
 
