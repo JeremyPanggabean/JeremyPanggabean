@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy Panggabean</h1>
-<h3 align="center">Currently studying about machine learning 🤖 </h3>
+<h3 align="center">Currently studying about pyhton and machine learning 🤖🐍 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeremypanggabean&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
