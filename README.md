@@ -7,8 +7,9 @@
 
 ### 🚀 About Me
 
-- 🌱 I'm currently learning and growing in machine learning engineering
-- 👯 I'm looking to collaborate on innovative projects
+- 🤺 I am passionately diving into the world of machine learning engineering, constantly learning and evolving my skills.
+- 👀 I’m eager to collaborate on groundbreaking projects that push the boundaries of technology and creativity.
+- ⚽ Like Football (Culés)
 
 <!-- Save the SVG content above as ml-animation.svg in your repository -->
 <div align="center">
