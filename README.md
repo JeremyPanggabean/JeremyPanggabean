@@ -9,7 +9,7 @@
 
 - 🤺 I'm passionately diving into the world of **machine learning engineering**, constantly learning and evolving my skills.
 - 👀 I’m eager to collaborate on **groundbreaking projects** that push the boundaries of technology and creativity.
-- ⚽ I like **Football (Culés)**.
+- ⚽ I'm like **Football Sport (Culés)**.
 
 <!-- Save the SVG content above as ml-animation.svg in your repository -->
 <div align="center">
