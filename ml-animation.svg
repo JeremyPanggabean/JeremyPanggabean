@@ -82,10 +82,4 @@
       <animateMotion path="M100,300 L300,150 L500,200 L700,200" dur="3s" repeatCount="indefinite" begin="2s"/>
     </circle>
   </g>
-
-  <!-- Labels -->
-  <text x="100" y="350" fill="#ffffff" text-anchor="middle" font-family="Arial" font-size="14">Input Layer</text>
-  <text x="300" y="350" fill="#ffffff" text-anchor="middle" font-family="Arial" font-size="14">Hidden Layer 1</text>
-  <text x="500" y="350" fill="#ffffff" text-anchor="middle" font-family="Arial" font-size="14">Hidden Layer 2</text>
-  <text x="700" y="350" fill="#ffffff" text-anchor="middle" font-family="Arial" font-size="14">Output Layer</text>
 </svg>
