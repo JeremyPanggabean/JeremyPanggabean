@@ -46,7 +46,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jeremypanggabean&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremypanggabean&t=${Date.now()}" alt="GitHub Streak" />
 </p>
 
 ### 🔝 Most Used Languages
