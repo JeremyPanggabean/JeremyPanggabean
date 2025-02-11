@@ -37,22 +37,22 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
 </p>
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremypanggabean&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremypanggabean&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
 
-### 📈 Contribution Graph
+### 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremypanggabean&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremypanggabean&theme=radical&hide_border=true&background=000000&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
 </p>
 
-### 🔝 Most Used Languages
+### 🛠️ Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremypanggabean&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremypanggabean&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF" alt="Most Used Languages" />
 </p>
 
 ### 🏆 GitHub Trophies
