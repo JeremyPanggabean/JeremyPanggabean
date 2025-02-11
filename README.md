@@ -46,7 +46,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremypanggabean&t=${Date.now()}" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremypanggabean&theme=dark" alt="GitHub Streak" />
 </p>
 
 ### 🔝 Most Used Languages
