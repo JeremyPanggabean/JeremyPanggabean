@@ -37,16 +37,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
 </p>
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremypanggabean&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremypanggabean&show_icons=true&theme=radical&hide_border=true&bg_color=1F1F1F&title_color=FFD700&icon_color=FFD700&text_color=FFA500&border_color=FFD700" alt="GitHub Stats" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremypanggabean&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremypanggabean&theme=dark&hide_border=true&background=1F1F1F&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFA500&sideLabels=FFA500&dates=FFA500" alt="GitHub Streak" />
 </p>
 
 ### 🛠️ Most Used Languages
