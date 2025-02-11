@@ -43,10 +43,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jeremypanggabean&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
 
-### 🔥 GitHub Streak Stats
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremypanggabean&theme=radical&hide_border=true&background=000000&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremypanggabean&theme=dark" alt="GitHub Streak" />
 </p>
 
 ### 🛠️ Most Used Languages
