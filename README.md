@@ -46,7 +46,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremypanggabean&theme=dark&hide_border=true&background=1F1F1F&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFA500&sideLabels=FFA500&dates=FFA500" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeremypanggabean&theme=react-dark&bg_color=1F1F1F&hide_border=true&color=FFD700&line=FFA500&point=FFD700" alt="Contribution Graph" />
 </p>
 
 ### 🛠️ Most Used Languages
