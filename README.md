@@ -46,7 +46,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeremypanggabean&theme=react-dark&bg_color=1F1F1F&hide_border=true&color=FFD700&line=FFA500&point=FFD700" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeremypanggabean&theme=github-compact&bg_color=1F1F1F&hide_border=true&color=FFD700&line=FFA500&point=FFD700" alt="Contribution Graph" />
 </p>
 
 ### 🛠️ Most Used Languages
