@@ -11,7 +11,7 @@
 
 - 🤺 Passionate **Machine Learning Engineer**, constantly evolving and learning.
 - 👀 Looking to collaborate on **exciting AI & ML projects**.
-- ⚽ Big fan of **Football (Culés 🏆)**.
+- ⚽ Big fan of **Football (Culés 🔵🔴)**.
 - 📚 Currently exploring **Deep Learning & MLOps**.
 
 ---
@@ -26,6 +26,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
 ---
@@ -74,6 +75,8 @@
 
 - 🚍 **Machine Learning Bulldozer Price Regression Project** [Repo](https://github.com/JeremyPanggabean/Machine-Learning-bulldozer-price-regression-project)
 - 🏬 **E-Commerce Data Analysis Project** [Repo](https://github.com/JeremyPanggabean/E-Commerce-Data-Analysis-Project)
+- 🔒 **CipherSphere - Encryption & Decryption Project** [Repo](https://github.com/JeremyPanggabean/CipherSphere)
+- 🏛️ **Python Banking Program** [Repo](https://github.com/JeremyPanggabean/Python-Banking-Program)
 
 ---
 
