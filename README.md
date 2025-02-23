@@ -51,9 +51,10 @@
 
 <p align="center">
   <a href="https://github.com/jeremypanggabean">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremypanggabean&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&ring=FF1CF7&currStreakNum=FF1CF7" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremypanggabean&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&ring=FF1CF7&currStreakNum=FF1CF7&sideLabels=FF1CF7&sideNums=FF1CF7&currStreakLabel=FF1CF7&dates=8BE9FD&stroke=FF1CF7&border=FF1CF7&hide_longest_streak=false" alt="GitHub Streak Stats"/>
   </a>
 </p>
+
 ---
 
 ### 🏆 Most Used Programming Languages
