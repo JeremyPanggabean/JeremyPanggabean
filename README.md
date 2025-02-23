@@ -9,10 +9,10 @@
 
 ## 🚀 About Me
 
-- 🤺 Passionate **Machine Learning Engineer**, constantly evolving and learning.
+- ⚔️ Passionate **Machine Learning Engineer**, constantly evolving and learning.
 - 👀 Looking to collaborate on **exciting AI & ML projects**.
 - ⚽ Big fan of **Football (Culés 🔵🔴)**.
-- 📚 Currently exploring **Deep Learning & MLOps**.
+- 📚 Currently exploring **Deep Learning Neural Networks using Tensorflow & MLOps**.
 
 ---
 
@@ -42,23 +42,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremypanggabean&show_icons=true&theme=radical&hide_border=true&bg_color=1F1F1F&title_color=FFD700&icon_color=FFD700&text_color=FFA500&border_color=FFD700" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremypanggabean&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremypanggabean&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeremypanggabean&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## 🛠️ Most Used Languages
+## 💡 Pull Requests & Issues
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremypanggabean&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremypanggabean&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeremypanggabean&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeremypanggabean&theme=radical&utcOffset=8" />
 </p>
 
 ---
@@ -74,13 +76,13 @@
 ## 📚 Featured Projects
 
 - 🚍 **Machine Learning Bulldozer Price Regression Project** [Repo](https://github.com/JeremyPanggabean/Machine-Learning-bulldozer-price-regression-project)
-- 🏬 **E-Commerce Data Analysis Project** [Repo](https://github.com/JeremyPanggabean/E-Commerce-Data-Analysis-Project)
+- 🏮 **E-Commerce Data Analysis Project** [Repo](https://github.com/JeremyPanggabean/E-Commerce-Data-Analysis-Project)
 - 🔒 **CipherSphere - Encryption & Decryption Project** [Repo](https://github.com/JeremyPanggabean/CipherSphere)
-- 🏛️ **Python Banking Program** [Repo](https://github.com/JeremyPanggabean/Python-Banking-Program)
+- 🏰 **Python Banking Program** [Repo](https://github.com/JeremyPanggabean/Python-Banking-Program)
 
 ---
 
-## 📫 Connect with Me
+## 👨‍🎓 Connect with Me
 
 <div align="center">
   <a href="mailto:jeremykevinpanggabean@gmail.com">
