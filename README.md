@@ -50,9 +50,10 @@
 ## 🎯 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeremypanggabean&theme=radical" alt="GitHub Activity Graph" width="100%" />
+  <a href="https://github.com/jeremypanggabean">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremypanggabean&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&ring=FF1CF7&currStreakNum=FF1CF7" alt="GitHub Streak Stats"/>
+  </a>
 </p>
-
 ---
 
 ### 🏆 Most Used Programming Languages
