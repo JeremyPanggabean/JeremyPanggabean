@@ -50,17 +50,15 @@
 ## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeremypanggabean&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremypanggabean&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 💡 Pull Requests & Issues
+### 🏆 Most Used Programming Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremypanggabean&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeremypanggabean&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeremypanggabean&theme=radical&utcOffset=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremypanggabean&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF" alt="Most Used Languages" />
 </p>
 
 ---
