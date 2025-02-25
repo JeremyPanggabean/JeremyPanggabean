@@ -34,7 +34,7 @@
 ## 📚 My Learning Journey
 
 - 📚 **Currently Learning**: Advanced Deep Learning & MLOps
-- ✅ **Completed**: Python, Data Science Basics, Machine Learning Foundations
+- ✅ **Completed**: Data Science Basics, Machine Learning Foundations
 - 🔄 **Next Goal**: Deploying ML Models with Docker & Kubernetes
 
 ---
