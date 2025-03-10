@@ -12,7 +12,7 @@
 - ⚔️ Passionate **Machine Learning Engineer**, constantly evolving and learning.
 - 👀 Looking to collaborate on **exciting AI & ML projects**.
 - ⚽ Big fan of **Football (Culés 🔵🔴)**.
-- 📚 Currently exploring **Deep Learning Neural Networks using Tensorflow & MLOps**.
+- 📚 Currently exploring **Machine Learning Intuition, Deep Learning Neural Networks using Tensorflow, & MLOps**.
 
 ---
 
