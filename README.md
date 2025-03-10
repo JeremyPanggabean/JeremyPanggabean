@@ -76,7 +76,7 @@
 ## 📚 Featured Projects
 
 - 🚍 **Machine Learning Bulldozer Price Regression Project** [Repo](https://github.com/JeremyPanggabean/Machine-Learning-bulldozer-price-regression-project)
-- 🏮 **E-Commerce Data Analysis Project** [Repo](https://github.com/JeremyPanggabean/E-Commerce-Data-Analysis-Project)
+- 🛒 **E-Commerce Data Analysis Project** [Repo](https://github.com/JeremyPanggabean/E-Commerce-Data-Analysis-Project)
 - 🔒 **CipherSphere - Encryption & Decryption Project** [Repo](https://github.com/JeremyPanggabean/CipherSphere)
 - 🃏 **Blackjack 21 Games Program** [Repo](https://github.com/JeremyPanggabean/Blackjack-Games)
 
