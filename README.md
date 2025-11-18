@@ -12,7 +12,7 @@
 - 🔍 Passionate **Data Enthusiast** with strong interest in **Data Engineering, Data Analysis, and Modern Data Stack**.
 - 📊 Experienced in transforming raw data into meaningful insights through **ETL pipelines, analytics, and reporting tools**.
 - 🛠️ Exploring technologies such as **SQL, Python for analytics, Data Warehousing, and Cloud-based Data Pipelines**.
-- ⚽ A huge fan of football (Culés 🔵🔴) — always open for discussions!
+- ⚽ A huge fan of football (Culés 🔵🔴).
 
 ---
 
@@ -38,7 +38,7 @@
 ## 📚 My Learning Journey
 
 - 📚 **Currently Learning**: Data Engineering Fundamentals, ETL/ELT, Data Modeling, Cloud Pipelines  
-- ☁️ **Exploring**: BigQuery, Snowflake, Airflow, dbt, and Warehouse Modeling  
+- ☁️ **Exploring**: BigQuery, Snowflake, Airflow, dbt  
 - 📈 **Completed**: SQL Foundations, Exploratory Data Analysis, Data Visualization  
 - 🎯 **Next Goal**: Build and deploy end-to-end data pipelines with orchestration tools
 
@@ -80,17 +80,17 @@
 
 ## 📚 Featured Projects
 
-- 📦 **ETL Pipeline with Python & SQL** — Coming Soon  
-- 📊 **E-Commerce Data Analysis Project**  
-  [Repo](https://github.com/JeremyPanggabean/E-Commerce-Data-Analysis-Project)
+- 🛍️ **Adidas US Shoe Sales 2021 – Looker Studio Dashboard**  
+  *Interactive Looker dashboard analyzing US Adidas shoe sales performance.*  
+  👉 [Repository](https://github.com/JeremyPanggabean/Looker-Dahsboard-Adidas-US-Shoe-Sales-2021)
 
-- 🚌 **Data Engineering Mini Project: Cleaning & Transforming Transport Data** — Coming Soon  
+- 👗 **European E-commerce Fashion Store – Shiny Dashboard**  
+  *Data ETL & visualization for European fashion retail performance.*  
+  👉 [Repository](https://github.com/JeremyPanggabean/Dashboard-European-E-commerce-Fashion-Store)
 
-- 🔒 **CipherSphere – Encryption & Decryption Program**  
-  [Repo](https://github.com/JeremyPanggabean/CipherSphere)
-
-- 🃏 **Blackjack 21 Game Program**  
-  [Repo](https://github.com/JeremyPanggabean/Blackjack-Games)
+- 📊 **E-Commerce Data Analysis Project**
+  *Data exploration & visualization using Streamlit*  
+  👉 [Repo](https://github.com/JeremyPanggabean/E-Commerce-Data-Analysis-Project)
 
 ---
 
