@@ -88,8 +88,8 @@
   *Data ETL & visualization for European fashion retail performance.*  
   👉 [Repository](https://github.com/JeremyPanggabean/Dashboard-European-E-commerce-Fashion-Store)
 
-- 🛒 **E-commerce Data Analysis Project - Streamlit**
-  *Data exploration & data visualisation using streamlit.*
+- 🛒 **E-commerce Data Analysis Project – Streamlit**  
+  *Data exploration & data visualization using Streamlit.*  
   👉 [Repository](https://github.com/JeremyPanggabean/E-Commerce-Data-Analysis-Project)
 
 ---
