@@ -37,7 +37,7 @@
 
 ## 📚 My Learning Journey
 
-- 📚 **Currently Learning**: Data Engineering Fundamentals, ETL/ELT, Data Modeling, Cloud Pipelines  
+- 📚 **Currently Learning**: Databricks, ETL/ELT, Data Modeling, Cloud Pipelines  
 - ☁️ **Exploring**: BigQuery, Snowflake, Airflow, dbt  
 - 📈 **Completed**: SQL Foundations, Exploratory Data Analysis, Data Visualization  
 - 🎯 **Next Goal**: Build and deploy end-to-end data pipelines with orchestration tools
@@ -89,7 +89,7 @@
   👉 [Repository](https://github.com/JeremyPanggabean/Dashboard-European-E-commerce-Fashion-Store)
 
 - 📊 **E-Commerce Data Analysis Project**
-  *Data exploration & visualization using Streamlit*  
+  *Data exploration & visualization using Streamlit.*  
   👉 [Repo](https://github.com/JeremyPanggabean/E-Commerce-Data-Analysis-Project)
 
 ---
