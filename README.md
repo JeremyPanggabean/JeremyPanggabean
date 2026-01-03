@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy Panggabean</h1>
-<h3 align="center">Data Enthusiast | Focusing on Data Engineering & Data Analysis 📊⚙️</h3>
+<h3 align="center">Data Enthusiast | Focusing on Data Engineering 📊⚙️</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeremypanggabean&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔍 Passionate **Data Enthusiast** with strong interest in **Data Engineering, Data Analysis, and Modern Data Stack**.
+- 🔍 Passionate **Data Enthusiast** with strong interest in **Data Engineering, and Modern Data Stack**.
 - 📊 Experienced in transforming raw data into meaningful insights through **ETL pipelines, analytics, and reporting tools**.
 - 🛠️ Exploring technologies such as **SQL, Python for analytics, Data Warehousing, and Cloud-based Data Pipelines**.
 - ⚽ A huge fan of football (Culés 🔵🔴).
@@ -38,8 +38,8 @@
 ## 📚 My Learning Journey
 
 - 📚 **Currently Learning**: Databricks, ETL/ELT, Data Modeling, Cloud Pipelines  
-- ☁️ **Exploring**: BigQuery, Snowflake, Airflow, dbt  
-- 📈 **Completed**: SQL Foundations, Exploratory Data Analysis, Data Visualization  
+- ☁️ **Exploring**: Airflow, DBT, Distributed system  
+- 📈 **Completed**: SQL Foundations, Hadoop Ecosystem, Exploratory Data Analysis, Data Visualization  
 - 🎯 **Next Goal**: Build and deploy end-to-end data pipelines with orchestration tools
 
 ---
