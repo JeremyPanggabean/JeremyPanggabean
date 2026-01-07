@@ -38,7 +38,7 @@
 ## 📚 My Learning Journey
 
 - 📚 **Currently Learning**: Databricks, ETL/ELT, Data Modeling, Cloud Pipelines  
-- ☁️ **Exploring**: Airflow, DBT, Distributed system  
+- ☁️ **Exploring**: Airflow, DBT, Spark Distributed system  
 - 📈 **Completed**: SQL Foundations, Hadoop Ecosystem, Exploratory Data Analysis, Data Visualization  
 - 🎯 **Next Goal**: Build and deploy end-to-end data pipelines with orchestration tools
 
@@ -80,9 +80,9 @@
 
 ## 📚 Featured Projects
 
-- 🛍️ **Adidas US Shoe Sales 2021 – Looker Studio Dashboard**  
-  *Interactive Looker dashboard analyzing US Adidas shoe sales performance.*  
-  👉 [Repository](https://github.com/JeremyPanggabean/Looker-Dahsboard-Adidas-US-Shoe-Sales-2021)
+- 🧱 **Datawarehouse-Dimensional-Data-Modeling - Databricks**  
+  *Designed with Star Schema modeling, Change Data Capture (CDC), and Slowly Changing Dimension Type 1(SCD).*  
+  👉 [Repository](https://github.com/JeremyPanggabean/Datawarehouse-Dimensional-Data-Modeling)
 
 - 👗 **European E-commerce Fashion Store – Shiny Dashboard**  
   *Data ETL & visualization for European fashion retail performance.*  
