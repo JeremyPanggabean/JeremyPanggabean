@@ -80,7 +80,7 @@
 
 ## 📚 Featured Projects
 
-- 🧱 **Datawarehouse-Dimensional-Data-Modeling - Databricks**  
+- 🧱 **Datawarehouse Dimensional Data Modeling - Databricks**  
   *Designed with Star Schema modeling, Change Data Capture (CDC), and Slowly Changing Dimension Type 1(SCD).*  
   👉 [Repository](https://github.com/JeremyPanggabean/Datawarehouse-Dimensional-Data-Modeling)
 
