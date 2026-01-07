@@ -84,8 +84,8 @@
   *Designed with Star Schema modeling, Change Data Capture (CDC), and Slowly Changing Dimension Type 1(SCD).*  
   👉 [Repository](https://github.com/JeremyPanggabean/Datawarehouse-Dimensional-Data-Modeling)
 
-- 👗 **European E-commerce Fashion Store – Shiny Dashboard**  
-  *Data ETL & visualization for European fashion retail performance.*  
+- 👗 **European E-commerce Fashion Store – Pentaho Data Integration, Shiny Dashboard**  
+  *Process ETL & visualization for European fashion retail performance.*  
   👉 [Repository](https://github.com/JeremyPanggabean/Dashboard-European-E-commerce-Fashion-Store)
 
 - 🛒 **E-commerce Data Analysis Project – Streamlit**  
